@@ -1,1 +1,0 @@
-The data files for this project can be downloaded from this URL:https://drive.google.com/drive/folders/14xuw-j6gV6EH7jljbKtOpArCg8g1ymtK?usp=sharing There are four files you will need to download in order to run the full notebook:1. collision_2009_2018.scv (68 MB)2. victim_2009_2018.csv (12 MB)3. party_2009_2018.csv (56 MB)4. LADOT_Traffic_Counts_Summary.csv (420 KB)
