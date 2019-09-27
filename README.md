@@ -7,6 +7,7 @@ The World Health Organization (WHO) and U.S. Department of Transportation statis
 - when and where do collisions happen?
 - what are their risk factors?
 - who are the victims?
-- where are the severe collision hot spots (dangerous intersections)?
+- where are the severe collision clusters (dangerous intersections)?
+- ...
 
 ![Image of Static Carto Map](https://github.com/chenliny/LA_Collision_Analysis/blob/master/Collision.png)
